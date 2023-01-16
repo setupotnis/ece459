@@ -235,3 +235,6 @@ TSWLatexianTemp*
 
 #CLion
 .idea/
+
+
+**/target/debug
